@@ -1,2 +1,2 @@
-# aihub
-AI Hub
+# AiFrenz's AI Hub
+AI Hub 
