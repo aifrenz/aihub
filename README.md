@@ -1,2 +1,6 @@
-# AiFrenz's AI Hub
-AI Hub 
+# AiFrenz 온라인 AI 기술 공유 공간
+인공지능 기술을 공유를 위한 기술문서 및 코드 저장공간입니다.
+
+# Acknowledgement
+대전광역시 "차세대 공공기술 발굴 사업"을 통해서 개발되었음에 감사드립니다.
+
